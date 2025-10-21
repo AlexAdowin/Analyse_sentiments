@@ -1,0 +1,6 @@
+{
+  "input_path": "data/reviews.json",
+  "output_dir": "output",
+  "encoding": "utf-8",
+  "neutral_threshold": 0.1
+}

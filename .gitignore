@@ -1,0 +1,20 @@
+# Environnement virtuel
+env/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+
+# Sorties ou fichiers générés
+output/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Config VSCode / IDE
+.vscode/
+.idea/

@@ -37,7 +37,7 @@ class SentimentAnalyzer:
                 
             elif polarity <= self.negative_seuil :
                 
-                sentiment = "Négatif"
+                sentiment = "Negatif"
                 
             else :
                 

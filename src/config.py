@@ -10,7 +10,8 @@ class Config:
     
     # Fichiers d'entrée/sortie
     input_file: str = os.getenv("INPUT_FILE", "data/reviews.js")
-
+    output_csv: str = os.getenv("OUTPUT_CSV", "output/results.csv")
+    output_summary: str = os.getenv("OUTPUT_SUMMARY", "output/summary.json")
     
     
 

@@ -9,7 +9,7 @@ class TestDataCharger:
 
     def test_load_inexistant_file(self):
         """Test de chargement d'un fichier inexistant."""
-        charger = DataCharger("nonexistent_file.csv")
+        charger = DataCharger("nonexistent_file.js")
 
         with pytest.raises(FileNotFoundError):
             charger.load_data()

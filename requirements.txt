@@ -2,3 +2,5 @@ pandas #Lire et écrire facilement des fichiers CSV ou JSON
 textblob #Traitement de texte et analyse de sentiments
 tkintertable #Création de tableaux interactifs dans Tkinter
 pytest 
+langdetect #Pour détecter la langue d'un texte
+numphy #Calculs numériques 
